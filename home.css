@@ -359,7 +359,7 @@ del {
  color: rgb(82, 80, 80);
 }
 .feature-card {
- display: flex;
+ display: flex;    
  align-items: center;
  /* background-color:black; */
  color: white;
@@ -369,7 +369,7 @@ del {
  min-width: 0;
 }
 .icon-box {
- font-size: 2rem;
+ font-size: 2rem;   
  color: #ea061d;
  margin-right: 12px;
  flex-shrink: 0;
