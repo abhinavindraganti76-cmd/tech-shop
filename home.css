@@ -409,7 +409,7 @@ del {
  gap: 10px;
  margin-top: 6rem;
 }
-.featured-indicators button {
+.featured-indicators button {    
  width: 10px;
  height: 10px;
  border-radius: 50%;
