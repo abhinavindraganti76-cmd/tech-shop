@@ -338,7 +338,7 @@ del {
 }
 @media (max-width: 425px) {
  .button-container {
- gap: 8px;
+ gap: 8px;     
  padding: 0 5px;
  }
  .button-container button {
